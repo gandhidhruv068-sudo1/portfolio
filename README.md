@@ -1,2 +1,11 @@
-# portfolio
-Modern responsive front-end ,back-end web development portfolio built with HTML, CSS, and JavaScript.
+# Portfolio
+
+A simple portfolio website.
+
+## Structure
+
+- `index.html` - Main page
+- `style.css` - Styles
+- `script.js` - JavaScript interactions
+- `images/` - Profile and project images
+.
